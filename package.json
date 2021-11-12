@@ -1,0 +1,23 @@
+{
+  "name": "javascript-testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JEFFKAY16/JavaScript-Testing-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JEFFKAY16/JavaScript-Testing-Jest/issues"
+  },
+  "homepage": "https://github.com/JEFFKAY16/JavaScript-Testing-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
